@@ -1,4 +1,4 @@
-# Devops - Capstone Project
+# Deploying a MERN Application on AWS
 
 ## Problem Statement
 Modern DevOps teams need a robust, automated CI/CD pipeline that not only builds and deploys
